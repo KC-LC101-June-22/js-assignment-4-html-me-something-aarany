@@ -9,11 +9,18 @@ body {
 }
 
 header, footer {
-    padding: 35px 70px;
+    padding: 25px 250px;
+}
+
+nav {
+    padding: 0px 250px;
+    text-align: center;
+    text-decoration-style: wavy;
 }
 
 main {
     background-color: seashell;
+    text-justify: left;
 }
 
 h1, h2, h3 {
