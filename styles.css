@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+/* use margin and padding to space elements, use one element, one class, and one id. */
+/*use element selector to give <body> a margin of 8px and a display block.*/
+/* give a heading the id of main heading and use the id selector a color of red */
+/* give a paragraph the id of testp and a class name of fun paragraph, with color green. */
+
+body {
+    display: block;
+    margin: 8 px;
+}
+
+header, footer {
+    padding: 35px 70px;
+}
+
+main {
+    background-color: seashell;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color:green
+}
